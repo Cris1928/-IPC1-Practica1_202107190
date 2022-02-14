@@ -1,1 +1,4 @@
 # -IPC1-Practica1_202107190
+Critian_Daniel_Gomez_Escobar
+202107190
+IPC1_SECCION_D
